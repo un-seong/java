@@ -1,0 +1,22 @@
+1. 5
+
+2. 4
+
+3. CLI : 키보드의 입력을 직접 받아 실행 하는 것 / 입력도 텍스트, 출력도 텍스트
+   GUI : 키보드로 입력 받지 않고 마우스를 통해 파일이나 그림 등을 실행하는 것
+
+4. 1
+
+5. sysdm.cpl
+
+6. 통합개발환경(Intergrated Devlopment Envionment)
+    컴파일, 디버그 등 도움을 줄 수 있는 도구 들이 들어가 있는 개발 환경
+
+7. 4
+
+8. 환경변수 이름 : JAVA_HOME
+   환경변수 값 : C:\Program Files\Java\jdk1.8.0_341
+
+9. %JAVA_HOME%\bin
+
+10. 제출 완료
